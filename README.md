@@ -1,0 +1,2 @@
+# get-seter
+obj.getSeter
